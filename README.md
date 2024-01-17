@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyash Bhagat</h1>
 <h3 align="center">A results driven and passionate data analyst aspirant</h3>
-<img align="right" alt="Coding" width="1280" src="https://cdn.pixabay.com/photo/2018/04/19/20/44/systems-icons-3334262_1280.jpg">
+<img align="right" alt="Coding" width="1280" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashb95&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashb95" /> </p>
 
