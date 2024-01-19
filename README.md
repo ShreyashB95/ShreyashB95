@@ -1,3 +1,4 @@
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif?w=1024)](https://github.com/ShreyashB95/ShreyashB95)
 <h1 align="center">Hi 👋, I'm Shreyash Bhagat</h1>
 <h3 align="center">Data Analyst </h3>
 <img align="right" alt="Coding" width="1280" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
