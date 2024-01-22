@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python Libraries and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://shreyashb95.github.io/shreyashtheanalyst.github.io/](https://shreyashb95.github.io/shreyashtheanalyst.github.io/)
+- 👨‍💻 All of my projects are available at [https://shreyashb95.github.io/Portfolio/](https://shreyashb95.github.io/Portfolio/)
 
 - 💬 Ask me about **SQL, Python, Excel and Power BI**
 
